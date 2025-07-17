@@ -1,0 +1,66 @@
+body {
+    font-family:"Ubuntu", sans-serif;
+    background-color:#231857;
+    color:white;
+}
+.con1{
+    color:white;
+    text-align:center;
+}
+.con2{
+    line-height:-5;
+}
+.adsImg{
+    width:80px;
+    float:left;
+    border-radius:2px;
+}
+.adsCon,.priceCon{
+    background-color:#372a69;
+    padding:20px;
+    margin:15px 20px 0 20px;
+    border-radius:10px;
+    
+}
+.adsTitle{
+    margin:-3px 20px 0px 10px;
+}
+.btn{
+    clear:left;
+    border:none;
+    width:100%;
+    padding:12px;
+    background-color:#4f399e;
+    border-radius:10px;
+}
+.btn,.whatsapp{
+    color:white;
+    font-size:18px;
+    font-family:"Ubuntu", sans-serif;
+}
+.btn:hover{
+    font-size:25px;
+}
+.foot{
+    text-align:center;
+    margin-top:5%;
+    color:gray;
+}
+.clickCon1{
+  text-align:center;
+}
+.clickCon2{
+  background-color: rgba(0, 0, 0, 0.5);
+  color:white;
+  display:inline;
+  padding:10px;
+  margin:5px;
+  border-radius:20px;
+}
+#identity{
+  text-indent:3px;
+}
+.note{
+  color:red;
+}
+
